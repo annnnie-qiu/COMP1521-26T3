@@ -1,7 +1,7 @@
 # COMP1521 26T1 Tutorial Resources
 
 ## Overview
-This repository contains all relevant information for the **25T2 tutorial** sessions, including coding exercises, and additional resources to assist students throughout the term.
+This repository contains all relevant information for the **26T1 tutorial** sessions, including coding exercises, and additional resources to assist students throughout the term.
 
 ## Contents
 - **Coding Exercises**: Hands-on problems with sample solutions in tutorial.
